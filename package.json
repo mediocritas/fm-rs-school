@@ -1,0 +1,15 @@
+{
+  "name": "fm-rs-school",
+  "version": "1.0.0",
+  "description": "File Manager for RS School",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fm_start.js",
+    "start:n": "node fm_start.js -- --username=your_username"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
